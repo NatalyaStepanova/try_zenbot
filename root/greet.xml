@@ -1,2 +1,4 @@
+<context>
 <input pattern="Привет *"/>
 <output value="Привет!"/>
+</context>
